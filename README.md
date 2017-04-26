@@ -1,3 +1,5 @@
+####原代码中有很多需要优化的地方，fork出来加入todoList,有时间优化一下
+
 # uncode-schedule
 
 基于zookeeper+spring task/quartz的分布式任务调度组件，确保所有任务在集群中不重复，不遗漏的执行。支持动态添加和删除任务。
